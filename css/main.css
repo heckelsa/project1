@@ -1,0 +1,60 @@
+/* General Styles */
+* {
+    font-family: Verdana, sans-serif;
+    color: #666;
+}
+
+h1 {
+    font-size: 3.45em;
+    text-align: center;
+}
+
+h2 {
+    color: #f07c17;
+    font-weight: bold;
+    font-size: 1.6em;
+    margin-top: 0.5em;
+    letter-spacing: -0.04em;
+}
+
+ul {
+    padding-top: 1.4em;
+}
+
+li {
+    padding: 0.5em;
+}
+
+/* Images */
+.imageMug {
+    max-width: 100%;
+}
+
+/* Design */
+body {
+    padding: 1.6em;
+}
+
+.containerImage {
+    padding: 1.5em 0 2em 0;
+}
+
+.containerFeatures {
+    float:left;
+    width: 100%;
+    margin: 0.45em 0 0 0;
+    padding: 1.2em 2em 2em 2em;
+    border: 1px solid;
+    border-color: #ccc;
+    font-weight: 500;
+}
+
+.containerContent {
+    padding-top: 0.5em;
+    line-height: 2.1em;
+    font-size: 1.1em;
+}
+
+.contentText {
+    padding: 1.5em 1.5em 0 0;
+}
